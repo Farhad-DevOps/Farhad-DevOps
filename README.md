@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhad-devops&label=Profile%20views&color=0e75b6&style=flat" alt="farhad-devops" /> </p>
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/farhadalam.04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shah-md-farhad-alam-202432141/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahmdfarhadalam@gmail.com) 
 
 - 🔭 I’m currently working on ... Genuity System Limited.
 - 🌱 I’m currently learning ... Amazon Web Services (AWS)
