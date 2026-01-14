@@ -3,6 +3,11 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
+<div align="center">
+  <img src="https://www.linkedin.com/in/shah-md-farhad-alam-202432141/" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhad-devops&label=Profile%20views&color=0e75b6&style=flat" alt="farhad-devops" /> </p>
 
 - 🔭 I’m currently working on ... Genuity System Limited.
@@ -10,7 +15,7 @@
 - 👯 I’m looking to collaborate on ... DevOps Team
 - 🤔 I’m looking for help with ... DevOps Project
 - 💬 Ask me about ... DevOps Tools
-- 📫 How to reach me: ...shahmdfarhadalam@gmail.com
+- 📫 How to reach me:  shahmdfarhadalam@gmail.com
 - ⚡ Fun fact: ... Linux
   
 <h3 align="left">👩‍💻  About Me</h3>
@@ -28,3 +33,6 @@ Link: https://www.credly.com/badges/76d911bf-55eb-4792-a9bf-b8a4af7fab0d/linked_
 ![](https://github-readme-stats.vercel.app/api?username=Farhad-DevOps&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Farhad-DevOps&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Farhad-DevOps&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
