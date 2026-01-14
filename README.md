@@ -13,7 +13,7 @@
 - ⚡ Fun fact: ... Linux
   
 <h3 align="left">👩‍💻  About Me</h3>
-<p>Currently, I serve as a Senior Engineer at Genuity System Limited (full-time), where I have honed my expertise in Linux-based systems, NOC operations, and infrastructure management over six years. My colleagues and supervisors recognize me as a detail-oriented, hard-working professional with a strong technical foundation.</p> 
+<p>Currently, I am Shah Md Farhad Alam,from Bangladesh dedicate for DevOps Engineer, where I have honed my expertise in Linux-based systems, NOC operations, and infrastructure management over six years. My colleagues and supervisors recognize me as a detail-oriented, hard-working professional with a strong technical foundation.</p> 
 <p>I am confident that my skills in DevOps practices, Kubernetes, CI/CD pipelines, and cloud technologies make me a strong fit for your team. I would welcome the opportunity to discuss how my background can contribute to success.</p>
 <p>I am CKA Certified.</p>
 Link: https://www.credly.com/badges/76d911bf-55eb-4792-a9bf-b8a4af7fab0d/linked_in_profile
