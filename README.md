@@ -3,7 +3,7 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-<p> align="left"> <img src="https://komarev.com/ghpvc/?username=farhad-devops&label=Profile%20views&color=0e75b6&style=flat" alt="farhad-devops" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhad-devops&label=Profile%20views&color=0e75b6&style=flat" alt="farhad-devops" /> </p>
 
 - 🔭 I’m currently working on ... Genuity System Limited.
 - 🌱 I’m currently learning ... Amazon Web Services (AWS)
