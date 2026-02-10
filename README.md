@@ -91,6 +91,7 @@ Here are some ideas to get you started:
 
 
 
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/farhadalam.04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shah-md-farhad-alam-202432141) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahmdfarhadalam@gmail.com) 
 
@@ -108,25 +109,9 @@ Here are some ideas to get you started:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Farhad-DevOps&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Farhad-DevOps&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Farhad-DevOps&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=farhad-devops&show_icons=true&theme=default&hide_border=true" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=farhad-devops&theme=default&hide_border=true" alt="GitHub streak"/>
-</div>
-
-
-<div align="center">
-  <a href="https://github.com/farhad-devops?tab=followers">
-    <img src="https://img.shields.io/github/followers/farhad-devops?label=Followers&style=social" alt="GitHub followers"/>
-  </a>
-  •
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=farhad-devops" alt="Visitors"/>
-</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
