@@ -19,22 +19,27 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Shah Md Farhad Alam</h1>
 <h3 align="center">A passionate DevOps Engineer from Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farhad-devops&label=Profile%20views&color=0e75b6&style=flat" alt="farhad-devops" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhad-devops" alt="farhad-devops" /></a> </p>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <a href="https://www.linkedin.com/in/shah-md-farhad-alam-202432141/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://www.facebook.com/farhadalam.04" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo" />
+  </a>
+  <a href="https://github.com/Farhad-DevOps" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
+  </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=farhad-devops&label=Profile%20views&color=0e75b6&style=flat" alt="farhad-devops" /> </p>
 </div>
 
 ###
